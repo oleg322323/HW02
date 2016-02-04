@@ -1,2 +1,2 @@
-# HW02
-Homework #2
+# Test
+This folder contained test files
